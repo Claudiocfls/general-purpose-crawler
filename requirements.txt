@@ -27,7 +27,7 @@ Scrapy==2.0.1
 scrapy-proxy-pool==0.1.9
 scrapy-rotated-proxy==0.1.5
 scrapy-rotating-proxies==0.6.2
-scrapy-splash==0.7.2
+scrapy-splash==0.8.0
 service-identity==18.1.0
 six==1.14.0
 soupsieve==2.0
